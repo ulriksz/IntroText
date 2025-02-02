@@ -80,3 +80,58 @@ See the [summaries/](/summaries/) folder for lecture note summaries by week.
 - [The longitude problem: history's deadliest riddle](https://www.youtube.com/watch?v=3mHC-Pf8-dU)
 - [About Time Documentary 1962](https://www.youtube.com/watch?v=e__emnxC2Gc)
 
+## Keyboard shortcuts
+
+Shortcuts I frequiently use
+
+Ctrl + F (Find text by keyword)
+Alt + Tab (Switch between tabs quickly)
+Ctrl + Alt + Del (Opens a menu which I usually use for Task Manager)
+
+Shortcuts I want to start using more frequiently
+
+Ctrl + Shift + T (Reopens a closed tab in Google Chrome)
+Windows Key + L (Lock my computer when I leave my desk)
+
+## Step 4 - Search
+Copy the following block into your README file
+
+````markdown
+## Search Experiments
+Try searching for the word "line"
+
+```
+Line
+line
+lines
+line 5
+line-7
+line72TODO
+line73.4
+end of line
+end-of-line
+outline
+linear
+```
+````
+
+- Try searching (Ctrl-F) for the word “line”
+- Try hovering with the mouse over all the icons in the Search dialog and see what they mean
+- Try clicking buttons 1 and 2 in the screenshot and see how they affect the search
+
+
+![search dialog](img/github_search_dialog_dark.png)
+
+Try searching using the following regex patterns. Enable regex search by toggling button 3 from the screenshot above.
+- `line\d`
+- `line\d+`
+- `line\d*`
+- `^line`
+- `line$`
+
+**More Resources**
+
+ ```markdown
+  ## More Resources
+  Check out the [Useful Resources](links.md) page for useful links.
+  ```
